@@ -36,7 +36,7 @@ streamlit run copilot_demo.py
 * [Explore A2I-Copilot →](./)
 
 ---
-📫 Reach out via GitHub or LinkedIn
+## 📫 Author
 Atsu Vovor  
 Consultant, Data & Analytics    
 ✉️ atsu.vovor@bell.net    
