@@ -4,7 +4,7 @@
 <p>
   <img src="https://github.com/atsuvovor/A2I-Copilot/blob/main/images/A2I-Copilot.png" 
        alt="Centered Image" 
-       style="width: 40%; height: auto;">
+       style="width: 80%; height: auto;">
 </p>
 
 
