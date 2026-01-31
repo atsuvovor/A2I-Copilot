@@ -1,7 +1,6 @@
-# A2I-Copilot — Conversational AI Assistant
+<h1 align="center">A2I-Copilot — Conversational AI Assistant</h1>
 
-
-<p>
+<p align="center">
   <img src="https://github.com/atsuvovor/A2I-Copilot/blob/main/images/A2I-Copilot.png" 
        alt="Centered Image" 
        style="width: 80%; height: auto;">
