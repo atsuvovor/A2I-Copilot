@@ -1,5 +1,13 @@
 # A2I-Copilot — Conversational AI Assistant
 
+
+<p>
+  <img src="https://github.com/atsuvovor/A2I-Copilot/blob/main/images/A2I-Copilot.png" 
+       alt="Centered Image" 
+       style="width: 40%; height: auto;">
+</p>
+
+
 **Purpose:**
 A2I-Copilot is a **conversational AI assistant** designed for **contextual analysis of enterprise datasets**, using RAG-based reasoning to answer queries and provide actionable insights.
 
